@@ -1,0 +1,26 @@
+/* body{
+    background-image: url(/img/Screenshot\ \(42\).png);
+    background-repeat: no-repeat;
+    background-size: 100% ;
+    /* border: dashed blueviolet 10px ; }*/
+    
+
+.head1{
+    color: blue;
+    font-size: 40px;
+    background-color: aqua;
+}
+ */
+#para{
+    font-size: 30px;
+    font-family: cursive;
+    font-style: italic;
+    background-color: aquamarine;
+
+}
+
+div{
+    padding: 10px;
+    background-color: bisque;
+}
+
